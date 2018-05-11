@@ -2,6 +2,7 @@ package com.example.alan2.tarjeterov2;
 
 public class Tarjeta
 {
+    
     public String edad;
     public String nombre;
     public String descripcion;
